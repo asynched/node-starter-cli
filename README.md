@@ -2,6 +2,17 @@
 
 A CLI for starting NodeJS projects with ease!
 
+## Index
+
+1. [About](#about)
+2. [How to install](#how-to-install)
+   1. [Requirements](#requirements)
+   2. [Cloning the repository](#clone-this-repository-🖊️)
+   3. [Installing dependencies](#install-dependencies-📚)
+   4. [Finished](#finished)
+3. [Usage](#usage)
+4. [Author](#author)
+
 ## About
 
 Just... Why?
@@ -10,7 +21,7 @@ This is meant to get you running with NodeJS projects quickly, this will install
 
 - Environment variables set up
 - JS modules out of the box
-- Path aliases with `@/`,
+- Path aliases with `@/`
 - Nodemon for watching files
 - ESLint for linting
 
@@ -50,7 +61,7 @@ Using npm as well, link the package running:
 $ npm link
 ```
 
-### Done! 🎉
+### Finished! 🎉
 
 Now you'll be able to run `nsc` in your terminal! 🥳
 
@@ -64,7 +75,7 @@ $ nsc
 
 The rest will be prompted to you when you run the command. 😼
 
-## Author
+## Author 💁‍♂️
 
 | ![Eder Lima](https://github.com/asynched.png?size=100) |
 | ------------------------------------------------------ |
