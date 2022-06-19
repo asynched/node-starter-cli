@@ -1,0 +1,17 @@
+{
+  "name": "base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "build": "sucrase -d src -o dist -t imports",
+    "start": "node dist/index.js"
+  },
+  "bin": {
+    "nsc": "bin/nsc"
+  },
+  "dependencies": {
+    "inquirer": "^9.0.0"
+  }
+}
