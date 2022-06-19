@@ -42,7 +42,7 @@ There are n steps to install, pretty easy though!
 Clone the repo with the following command:
 
 ```sh
-$ git clone $URL
+$ git clone git@github.com:asynched/node-starter-cli.git
 ```
 
 ### Install dependencies 📚
