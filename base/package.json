@@ -4,9 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon src/index.js",
+    "dev": "nodemon src/bootstrap.js",
     "build": "sucrase src -d dist -t imports",
-    "start": "node dist/index.js"
+    "start": "node dist/bootstrap.js"
   },
   "dependencies": {
     "dotenv": "^16.0.1",
